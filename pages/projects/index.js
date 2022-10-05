@@ -7,7 +7,7 @@ const Projects = () => {
         <div>
             <Head>
             <title>RM | Projects </title>
-            <meta name="keywords" content="projects" />
+            <meta name="description" content="Featured projects for Ryan Mark which include UW mars rover contributions, wooden truss design, coding projects, and more."/>
             </Head>
             <h1>Projects</h1>
             
@@ -33,6 +33,12 @@ const Projects = () => {
             </div>
 
             <div className = {styles.singleBlock}>
+                <Link href = "/projects/conveyor-belt"><h3 className = {styles.single}>Conveyor Belt</h3></Link>
+                This 
+                <br></br>
+            </div>
+
+            <div className = {styles.singleBlock}>
                 <Link href = "/projects/space-capsule"><h3 className = {styles.single}>Space Capsule Designathon</h3></Link>
                 This project was done during the weekend-long McMaster University Designathon
                 in March 2022. The event focused on designing a capsule for a several month long
@@ -52,7 +58,6 @@ const Projects = () => {
             <hr></hr>
 
             <h2>Computer Science Projects</h2>
-            <h3>Reps and Sets</h3>
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/reps-and-sets"><h3 className = {styles.single}>Reps and Sets</h3></Link>
                 Coding project to document different.
