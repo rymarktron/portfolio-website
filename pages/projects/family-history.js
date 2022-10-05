@@ -1,11 +1,11 @@
 import Head from 'next/head'
 import Link from 'next/link';
 
-const Scouts = () => {
+const FamilyHistory = () => {
     return ( 
         <div>
             <Head>
-            <title>RM | Space Capsule </title>
+            <title>RM | Family History </title>
             <meta name="keywords" content="space-capsule" />
             </Head>
             <h1>Yearbook</h1>
@@ -30,4 +30,4 @@ const Scouts = () => {
     );
 }
  
-export default Scouts
+export default FamilyHistory

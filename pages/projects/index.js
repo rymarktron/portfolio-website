@@ -74,6 +74,7 @@ const Projects = () => {
             <hr></hr>
 
             <h2>Graphic Design</h2>
+            <i>I enjoy using graphic design to convey </i>
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/yearbook"><h3 className = {styles.single}>Bayview Secondary School Yearbook</h3></Link>
                 This
@@ -86,6 +87,11 @@ const Projects = () => {
                 <br></br>
             </div>
 
+            <div className = {styles.singleBlock}>
+                <Link href = "/projects/family-history"><h3 className = {styles.single}>Family History</h3></Link>
+                Lots of practice using Illustrator and InDesign to create a page design. I used Photoshop to bring photos from the past to the present.
+                <br></br>
+            </div>
         </div> 
     );
 }
