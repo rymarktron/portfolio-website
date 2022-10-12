@@ -11,8 +11,9 @@ const Experiences = () => {
 
             <h1>Work Experiences</h1>
             <Image src = "/waterloo.png" width = {500} height = {200}/>
-            <p>I have been fortunate to have worked at three wonderful co-ops during my university experience. 
-            Co-op has been a great way to apply the theory in class to the real world, and learn about industry.</p>
+            <p>I have been fortunate to have internships at three wonderful companies during my university experience. 
+            The co-op experience has been a great way to apply the theory in class to the real world and learn about industry use case and design.
+            These experiences are described below.</p>
             <br/>
 
             <hr></hr>
