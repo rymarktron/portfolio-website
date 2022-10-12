@@ -1,11 +1,11 @@
 import Head from 'next/head'
 import Link from 'next/link';
 
-const FamilyHistory = () => {
+const Map = () => {
     return ( 
         <div>
             <Head>
-            <title>RM | Family History </title>
+            <title>RM | Contour Map </title>
             <meta name="keywords" content="space-capsule" />
             </Head>
             <h1>Yearbook</h1>
@@ -29,4 +29,4 @@ const FamilyHistory = () => {
     );
 }
  
-export default FamilyHistory
+export default Map

@@ -8,16 +8,23 @@ const Experiences = () => {
             <title>RM | Experiences </title>
             <meta name="keywords" content="experiences" />
             </Head>
+
             <h1>Work Experiences</h1>
+            <Image src = "/waterloo.png" width = {500} height = {200}/>
             <p>I have been fortunate to have worked at three wonderful co-ops during my university experience. 
             Co-op has been a great way to apply the theory in class to the real world, and learn about industry.</p>
-            <Image src = "/waterloo.png" width = {500} height = {200}/>
             <br/>
-            
+
+            <hr></hr>
+
             <Image src = "/logos/IQC-logo.svg" width = {200} height = {80}/><br/>
             <i>May - August 2022</i>
             <br/>
-            <p></p>
+            <p>It was an extraordinary experience to be at the cutting edge of science and technology with this co-op.
+            I worked on the optical beam delivery, a sub-system in charge of sending a light beam to a trapped ion and receiving
+            information from cameras and other sensors to ensure the correct position of the ion. There were significant discussions
+            on the design and trying to keep it modular and precise, and it was highly rewarding to see the project from the 
+            start to the end of the design cycle.</p>
             <hr></hr>
 
 
@@ -40,17 +47,16 @@ const Experiences = () => {
 
             As well, I wrote technical reports for faculty to support them in their classes.</p>
 
+            <hr></hr>
+            
             <h1>Design Team Experiences</h1>
-
             <h2>Mars Rover Design Team</h2>
             <p>I have been involved in the Mars Rover Robotics design team. I started in the mechanical team and learned manufacturing design and 
             how to machine parts using the student design ttmachine shop. </p>
 
             <h1>Other Experiences</h1>
             Some of experiences worth mentioning is my involvement in Scouts at a local and national level.
-            I am also a website and photography director of engineer societ.
-
-
+            I am also a website and photography director of the UW Engineering Society.
         </div> 
     );
 }

@@ -41,7 +41,8 @@ export default function Home() {
 
       <p className = {styles.text}>I am involved with the Robotics Design Team on the Mechanical sub-team, as well as the Formula 1 Motorsports team on the Electronics sub-team. 
       With two different engineering applications and its respective challenges, it is nice to be part of a team to achieve a great product together. </p>
-      <p className = {styles.text}>I believe that is the value of engineering in the present - solving every day problems with all the tools in the engineering toolbox.</p>
+      <p className = {styles.text}>I believe that the value of engineering is being able to solve every day problems with all the tools in the engineering toolbox. In the projects section of my website,
+      it showcases different engineering problems and the solutions I came up with on my own or with a team using these tools.</p>
 
       <p className = {styles.text}>In my free time, I enjoy taking photos - more of which can be seen in my <Link href ="/hobbies"><a>Hobbies</a></Link> section. I take photos 
       for the Engineering Society and Computer Science Club.</p>

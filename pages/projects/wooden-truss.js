@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link';
 import Image from 'next/image';
+import styles from '../../styles/Home.module.css'
 
 const Truss = () => {
     return ( 
@@ -42,8 +43,9 @@ const Truss = () => {
 
             Testing was done and it was </p>
 
-            <Link href ="/">Final Report</Link>
-
+            <Link href = "https://drive.google.com/file/d/1zc1UCpszFfRfwCRb1AwqTt6B-q-uh6gF/view?usp=sharing">
+                <a className = {styles.btn}>Final Report</a>
+            </Link>
         </div> 
     );
 }
