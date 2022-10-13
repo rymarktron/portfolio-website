@@ -1,6 +1,7 @@
 import Head from 'next/head'
 import Link from 'next/link';
 import styles from '../../styles/Project.module.css'
+import Image from 'next/image';
 
 const Projects = () => {
     return ( 
@@ -12,8 +13,8 @@ const Projects = () => {
             <h1>Projects</h1>
             
             <div className = {styles.singleBlock}>
-                <p>Below are some past and present projects I have work on. They vary quite a lot, and many come from
-                past course projects, personal projects sparked from curious developments, and design and hackathons.</p>
+                <p>Below are some past and current projects that I have been working on. They vary quite a lot in their scope and design, and they come from
+                a variety of intentions: past course projects, personal projects sparked from my curiousity, and designathons and hackathons.</p>
                 <p>Engineering is all about creating prototypes and projects and applying and designing 
                 around the constraints of physics, science, and economics.</p>
                 <p>I hope you enjoy my curation of works.</p>
@@ -25,6 +26,7 @@ const Projects = () => {
             <h2>CAD Projects</h2>
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/uw-robotics"><h3 className = {styles.single}>Robotics Design Team Contributions ⚙️</h3></Link>
+                <Image src = "/portfolio/robotics.png" width = {725} height = {525}/><br/>
                 <p>I have been a part of this design team since January 2022. This collection showcases my contributions to the team, which include:
                 manufacturing parts using the student machine shop, leading sub-assemblies, and create component and assembly drawings. </p> 
                 <br></br>
@@ -32,6 +34,7 @@ const Projects = () => {
 
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/wooden-truss"><h3 className = {styles.single}>Wooden Bridge 🌉</h3></Link>
+                <Image src = "/portfolio/truss-project.png" width = {725} height = {525}/><br/>
                 <p>This was a design project for the mechanics of deformation course. We explored the different forces 
                 that a truss system can experience, and we had a design competition to optimize the bridge
                 with these forces in mind. </p>
@@ -39,19 +42,21 @@ const Projects = () => {
             </div>
 
             <div className = {styles.singleBlock}>
-                <Link href = "/projects/conveyor-belt"><h3 className = {styles.single}>Conveyor Belt</h3></Link>
-                <p> Another course project bringing the components of bearings, fasteners, extrusions, and more together.</p>
-                <br></br>
-            </div>
-
-            <div className = {styles.singleBlock}>
                 <Link href = "/projects/space-capsule"><h3 className = {styles.single}>Space Capsule Designathon 🚀</h3></Link>
+                <Image src = "/portfolio/space.png" width = {725} height = {525}/><br/>
                 <p>This project was done during the weekend-long McMaster University Designathon
                 in March 2022. The event focused on designing a capsule for a several month long
                 journey to Mars. Our planning, design, and presentation led us to receive
                 Second Place at the event.</p>
                 <br></br>
             </div>
+            
+            <div className = {styles.singleBlock}>
+                <Link href = "/projects/conveyor-belt"><h3 className = {styles.single}>Conveyor Belt</h3></Link>
+                <p> Another course project bringing the components of bearings, fasteners, extrusions, and more together.</p>
+                <br></br>
+            </div>
+
 
             <br></br>
             <hr></hr>

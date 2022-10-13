@@ -12,6 +12,7 @@ const SpaceCapsule = () => {
             <h1>UW Mars Rover Robotics Design Team</h1>
             <p>Mechanical Team member</p>
 
+            <Image src = "/portfolio/robotics.png" width = {725} height = {525}/><br/>
             <h2>Introduction</h2>
             <p>The Mechanical Team designs and manufactures part for the UW Mars Rover robotics team. 
             There are a few key objectives for the rover:</p>
@@ -32,17 +33,13 @@ const SpaceCapsule = () => {
             <p>Led the assembly of this section of the robotic arm. It was important to assign work to the group members,
             manufacture parts myself, and assembly together.</p>
 
-            <Image src = "/photos/axis1-arm-assembly.JPG" width = {500} height = {350}/><br/>
-
             <h2>Science Test Tube Sub-Assembly</h2>
             <p>Led the assembly of </p>
-            <Image src = "/photos/science-motors.JPG" width = {500} height = {350}/><br/>
-            <Image src = "/photos/test-tube.png" width = {500} height = {350}/><br/>
 
             <h2>Manufacturing Parts</h2>
             <p>Used processes such as 3D printing to create parts for the team.</p>
-            <Image src = "/photos/3d-prints.JPG" width = {500} height = {350}/><br/>
 
+            <p>As time goes on and we head towards the competition, this page will continued to be updated.</p>
         </div> 
     );
 }

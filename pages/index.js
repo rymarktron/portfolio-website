@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <div>
       <Head>
-      <title>Ryan Mark </title>
+      <title>Ryan Mark</title>
       <meta name="keywords" content="ninjas" />
       <meta name="description" content="I'm Ryan. A student studying mechatronics engineering with experience on design teams and various coops ..." />
       <link rel="shortcut icon" href="/favicon.ico" />
@@ -15,6 +15,7 @@ export default function Home() {
       <link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png"/>
       <link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png"/>
       </Head>
+
       <div
           style={{
             display: "flex",
