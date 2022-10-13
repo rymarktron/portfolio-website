@@ -29,7 +29,6 @@ const Projects = () => {
                 <Image src = "/portfolio/robotics.png" width = {725} height = {525}/><br/>
                 <p>I have been a part of this design team since January 2022. This collection showcases my contributions to the team, which include:
                 manufacturing parts using the student machine shop, leading sub-assemblies, and create component and assembly drawings. </p> 
-                <br></br>
             </div>
 
             <div className = {styles.singleBlock}>
@@ -38,7 +37,6 @@ const Projects = () => {
                 <p>This was a design project for the mechanics of deformation course. We explored the different forces 
                 that a truss system can experience, and we had a design competition to optimize the bridge
                 with these forces in mind. </p>
-                <br></br>
             </div>
 
             <div className = {styles.singleBlock}>
@@ -48,13 +46,11 @@ const Projects = () => {
                 in March 2022. The event focused on designing a capsule for a several month long
                 journey to Mars. Our planning, design, and presentation led us to receive
                 Second Place at the event.</p>
-                <br></br>
             </div>
             
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/conveyor-belt"><h3 className = {styles.single}>Conveyor Belt</h3></Link>
                 <p> Another course project bringing the components of bearings, fasteners, extrusions, and more together.</p>
-                <br></br>
             </div>
 
 
@@ -65,7 +61,6 @@ const Projects = () => {
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/rtos"><h3 className = {styles.single}>Scout Toolbox</h3></Link>
                 Website to share scouting trips. Full-stack website.
-                <br></br>
             </div>
 
             <div className = {styles.singleBlock}>
@@ -93,8 +88,10 @@ const Projects = () => {
             <i>I enjoy using graphic design to convey information in a visual manner. </i>
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/yearbook"><h3 className = {styles.single}>Bayview Secondary School Yearbook</h3></Link>
-                This
-                <br></br>
+                <p>Being the yearbook editor was the culmination of my high school experiences — a true kaleidoscope featuring it all. It was one of 
+                my greatest experiences as a high school student and leader, and in many ways allowed me to take an omniscient perspective 
+                of my high school. This made it truly extraordinary to be able to see the book come together, work on the graphics,
+                and steer the direction of the book and the creative elements.</p>
             </div>
 
             <div className = {styles.singleBlock}>
@@ -102,13 +99,11 @@ const Projects = () => {
                 <p>This was my Scout group&apos;s 20th anniversary. Similar to my experience in yearbook, this book required to bring everything together 
                 and showcase it in a limited 80 pages. I worked on the full design of the book and had a chance to communicate with a number of stakeholders 
                 to create the book.</p>
-                <br></br>
             </div>
 
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/family-history"><h3 className = {styles.single}>Family History</h3></Link>
                 There was a lot of practice using Illustrator and InDesign to create a page design. I used Photoshop to bring photos from the past to the present.
-                <br></br>
             </div>
         </div> 
     );
