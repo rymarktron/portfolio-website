@@ -36,8 +36,8 @@ export default function Home() {
           
         </div>
 
-      <p className = {styles.text}>In 2020, I joined the University of Waterloo in the Mechatronics Engineering program, and it has been a joy-ride since. It is nice to be
-      in a program where you have a chance to learn the engineering discipline and apply the concepts from class to engineering design teams and co-op experiences.  
+      <p className = {styles.text}>I am a student at the University of Waterloo in the Mechatronics Engineering program. It is a program
+      that teaches mechanical, computer and electric, and software courses, and apply the concepts from class to engineering design teams and co-op experiences.  
       There are also great connections to industry and a vast network which is really nice.</p>
 
       <p className = {styles.text}>I am involved with the Robotics Design Team on the Mechanical sub-team, as well as the Formula 1 Motorsports team on the Electronics sub-team. 

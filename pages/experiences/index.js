@@ -21,9 +21,9 @@ const Experiences = () => {
             <Image src = "/logos/IQC-logo.svg" width = {200} height = {80}/><br/>
             <i>May - August 2022</i>
             <br/>
-            <p>It was an extraordinary experience to be at the cutting edge of science and technology with this co-op.
-            I worked on the optical beam delivery, a sub-system in charge of sending a light beam to a trapped ion and receiving
-            information from cameras and other sensors to ensure the correct position of the ion. There were significant discussions
+            <p>It was a special experience to work at the Institute of Quantum Computing to see the cutting edge of science and technology.
+            I worked on the optical beam delivery, a sub-system that would send a laser beam to a trapped ion and that would be the method of
+            calibrating the ions position using cameras and other sensors at the end.correct position of the ion. There were significant discussions
             on the design and trying to keep it modular and precise, and it was highly rewarding to see the project from the 
             start to the end of the design cycle.</p>
             <hr></hr>
