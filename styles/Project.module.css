@@ -5,6 +5,7 @@
     display: block;
     margin: 20px 10px;
     border-left: 8px solid #fff;
+    border-radius: 25px;
   }
   .single {
     color: #173660;
@@ -12,4 +13,9 @@
 
   .single:hover {
     background-color: #173660;color:#ffffff;
+  }
+  
+  .grid-container {
+    display: grid;
+    column-gap: 50px;
   }

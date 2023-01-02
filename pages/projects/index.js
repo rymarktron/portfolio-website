@@ -58,6 +58,7 @@ const Projects = () => {
             <hr></hr>
 
             <h2>Computer Science Projects</h2>
+            
             <div className = {styles.singleBlock}>
                 <Link href = "/projects/rtos"><h3 className = {styles.single}>Scout Toolbox</h3></Link>
                 Website to share scouting trips. Full-stack website.

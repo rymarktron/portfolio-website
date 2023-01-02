@@ -36,14 +36,15 @@ export default function Home() {
           
         </div>
 
-      <p className = {styles.text}>I am a student at the University of Waterloo in the Mechatronics Engineering program. It is a program
-      that teaches mechanical, computer and electric, and software courses, and apply the concepts from class to engineering design teams and co-op experiences.  
-      There are also great connections to industry and a vast network which is really nice.</p>
+      <p className = {styles.text}>Ryan is a third-year Mechatronics Engineering student at the University of Waterloo. 
+      Ryan has always been fascinated by the intersection of mechanical, electrical, and computer engineering, and he knew 
+      that Mechatronics Engineering was the perfect program.</p>
 
-      <p className = {styles.text}>I am involved with the Robotics Design Team on the Mechanical sub-team, as well as the Formula 1 Motorsports team on the Electronics sub-team. 
-      With two different engineering applications and its respective challenges, it is nice to be part of a team to achieve a great product together. </p>
-      <p className = {styles.text}>I believe that the value of engineering is being able to solve every day problems with all the tools in the engineering toolbox. In the projects section of my website,
-      it showcases different engineering problems and the solutions I came up with on my own or with a team using these tools.</p>
+      <p className = {styles.text}>Throughout his time at Waterloo, Ryan has taken a variety of courses in subjects ranging from sensors and instrumentation 
+      to computer-aided design and manufacturing. He has also completed several co-op placements, including one at a leading 
+      electronics company, Amphenol where he worked on improving processes in manufacturing and the successful production of wire harnesses. </p>
+      <p className = {styles.text}>In his spare time, Ryan enjoys participating in design competitions and hackathons, where he can apply her skills and knowledge to solve real-world problems. 
+      He is also an active member of the Waterloo Engineering Society, where she has served as a director of website and photography being an integral member of the team.</p>
 
       <p className = {styles.text}>In my free time, I enjoy taking photos - more of which can be seen in my <Link href ="/hobbies"><a>Hobbies</a></Link> section. I take photos 
       for the Engineering Society and Computer Science Club.</p>

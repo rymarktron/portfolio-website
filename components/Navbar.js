@@ -2,6 +2,7 @@
 
 import Link from 'next/link'
 import Image from 'next/image'
+import Style from '../styles/Home.module.css'
 
 const Navbar = () => {
     return ( 
