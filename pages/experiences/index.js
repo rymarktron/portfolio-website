@@ -21,32 +21,39 @@ const Experiences = () => {
             <Image src = "/logos/IQC-logo.svg" width = {200} height = {80}/><br/>
             <i>May - August 2022</i>
             <br/>
-            <p>It was a special experience to work at the Institute of Quantum Computing to see the cutting edge of science and technology.
-            I worked on the optical beam delivery, a sub-system that would send a laser beam to a trapped ion and that would be the method of
-            calibrating the ions position using cameras and other sensors at the end.correct position of the ion. There were significant discussions
-            on the design and trying to keep it modular and precise, and it was highly rewarding to see the project from the 
-            start to the end of the design cycle.</p>
+            <p>
+            During Ryan’s co-op term at the Institute for Quantum Computing (IQC), he had the opportunity to work on designing the engineering 
+            system for cutting-edge research projects in the field of quantum information science. He was part of a team of researchers working
+            on the development of novel quantum algorithms and technologies, and he was able to contribute my engineering experience to several 
+            key projects throughout my time at IQC. During his term, one of the major projects that he worked on was the design of an optical 
+            beam delivery system. This sub-system was responsible for sending a laser beam to a trapped ion, and it used cameras and other sensors 
+            to calibrate the ion`&apos`s position and correct it as needed.
+
+
+            </p>
             <hr></hr>
 
 
             <Image src = "/logos/Amphenol-logo.svg" width = {200} height = {80}/><br/>
             <i>September - December 2021</i>
-            <p>I worked at Amphenol as a process engineering assistant. As a wire and cables manufacturing
-            company that builds electric assemblies for major construction and transportation companies
-            in North America. I worked there as a process engineer where I applied my AutoCAD skills to
-            create work constructions for the factory, and I also had a chance to apply and on the factory
-            production floor to help solve problems that arised. To the left is an example of a wire harness
-            diagram from online (cannot show ones created for copyright reasons). The drawings I created
-            were often larger and more complex and would be put on a 3” x 16” board.</p>
+            <p>During Ryan`&apos`s co-op term as a Process Engineer at an electromechanical manufacturing company, they gained valuable hands-on experience 
+            in the production of wire harnesses. One of their main responsibilities was to create engineering drawings for the wire harnesses on AutoCAD, ensuring 
+            that all necessary dimensions and specifications were accurately captured.
+
+            In addition to creating engineering drawings, they also worked closely with the team to identify and implement process improvements, and 
+            were responsible for maintaining documentation and tracking production data. They enjoyed the opportunity to use their technical skills to 
+            contribute to the success of the company, and were proud to be a part of a team that produced high-quality products. 
+            </p>
             
             <hr></hr>
 
             <h2>IDEAS Clinic</h2>
-            <p>I worked at the IDEAS Clinic as a research clinician and was able to learn and apply 
-            computer vision in the sports industry for golf and robotics with markerless tracking. I learned
-            Python, MATLAB, and OpenCV to be able to create a program that would be able to meet different conditions.
-
-            As well, I wrote technical reports for faculty to support them in their classes.</p>
+            <p>During their co-op term as a Research Clinician, they had the opportunity to work on a project focused on the application of computer vision in 
+            sports golf. They worked closely with a team of researchers to develop and test algorithms that could analyze video footage of golf swings and 
+            provide valuable insights to players and coaches. One of the most rewarding aspects of their co-op experience was the opportunity to see their 
+            work have a real-world impact. They enjoyed the challenge of finding creative solutions to complex problems, and were excited to be a part of a 
+            project that had the potential to revolutionize the way golf is analyzed and taught.
+            </p>
 
             <hr></hr>
             

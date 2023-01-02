@@ -43,11 +43,10 @@ export default function Home() {
       <p className = {styles.text}>Throughout his time at Waterloo, Ryan has taken a variety of courses in subjects ranging from sensors and instrumentation 
       to computer-aided design and manufacturing. He has also completed several co-op placements, including one at a leading 
       electronics company, Amphenol where he worked on improving processes in manufacturing and the successful production of wire harnesses. </p>
-      <p className = {styles.text}>In his spare time, Ryan enjoys participating in design competitions and hackathons, where he can apply her skills and knowledge to solve real-world problems. 
-      He is also an active member of the Waterloo Engineering Society, where she has served as a director of website and photography being an integral member of the team.</p>
+      <p className = {styles.text}>In his spare time, Ryan enjoys participating in design competitions and hackathons, where he can apply his skills and knowledge to solve real-world problems. 
+      He is also an active member of the Waterloo Engineering Society, where he has served as a director of website and photography, being an integral member of the team.</p>
 
-      <p className = {styles.text}>In my free time, I enjoy taking photos - more of which can be seen in my <Link href ="/hobbies"><a>Hobbies</a></Link> section. I take photos 
-      for the Engineering Society and Computer Science Club.</p>
+      <p className = {styles.text}>More on his past co-op experiences and personal projects can be seen at: <Link href ="/experiences"><a>Experiences</a></Link></p>
 
       <p className = {styles.text}>Want to have a connect? 
         Feel free to contact me by &nbsp;
